@@ -22,5 +22,9 @@ namespace ProjetoMVC.Controllers
             return View(contatos);
         }
 
+        public IActionResult Criar()
+        {
+            return View();
+        }
     }
 }
