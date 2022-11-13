@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\estudos\\dio\\ProjetoMVC\\Views\\Contato\\Delectar.cshtml",
+      "TargetPath": "Views\\Contato\\Delectar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\estudos\\dio\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
       "TargetPath": "Views\\Contato\\Editar.cshtml",
       "FileKind": "mvc"
